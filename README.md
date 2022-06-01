@@ -1,2 +1,2 @@
-# opensyllabus
-Part of the open syllabus project
+# open public syllabus
+Part of the open public syllabus project

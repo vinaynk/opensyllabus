@@ -10,7 +10,20 @@ G2 grade stands for intermediate level topics.
 
 - advanced regex
 
-### Files and Data
+### Syntax (+)
+
+- decorators
+- staticmethod
+- classmethod
+- dataclass
+- cache
+
+### Standard library (+)
+
+Collections
+
+- Counter
+- Default dict
 
 Text data
 
@@ -33,25 +46,28 @@ Compression
 - zipfile
 - gzip
 
-Bases
+Bases (binary to text)
 
 - base64
-- base32S
+- base32
 
-Checksum
+Hashlib
 
 - md5sum
 - sha256sum
-
-Hashes
-
 - hashlib
 
-### Database
+Cleanup
 
-- sqlite3
+- atexit
+- tempfile
 
-### Calendar, Zone
+IO
+
+- BytesIO
+- StringIO
+
+Calendar, Zone
 
 - datetime
 - zoneinfo
@@ -88,14 +104,11 @@ Hashes
 - processes
 - queues, pipes
 
-### Cleanup
 
-- atexit
-- tempfile
+## Section-3 (G2S3)
 
-###  
+### Database
 
-
-
+- sqlite3
 
 

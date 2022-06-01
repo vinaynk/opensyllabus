@@ -171,7 +171,6 @@ G1 grade stands for beginner level topics.
 ### Script arguments
 
 - argparse
-- subparsers
 
 ### Unicode support
 
@@ -181,5 +180,12 @@ G1 grade stands for beginner level topics.
 
 ### Regular Expression
 
-- basic regex
+- Basic regex
+
+### Syntax (+)
+
+- Function args and kwargs
+- Args and kwargs with * and /
+- name == main
+
 
